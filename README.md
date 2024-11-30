@@ -1,4 +1,4 @@
-# Missile Flight Simulation
+![image](https://github.com/user-attachments/assets/bb7cd256-778b-482e-a47f-3c5fe5313de7)
 
 **Created by:** Ilyes Ameraoui
 
@@ -76,6 +76,24 @@ The missile is animated, and real-time information is displayed on the screen, s
 
 ---
 
+## Output
+- **3D Visualization:** A plot showing the missile's trajectory in 3D space (X, Y, Z).
+- **Radar Detection Range:** A cube representing the radar's detection zone around the missile.
+- **Animation:** A dynamic animation of the missile’s flight path, updating its position frame by frame.
+- **Radar Detection Range:** Real-time updates of the missile’s position and time elapsed in the simulation.
+
+---
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## Contact
+- **Email:** il.ameraoui@gmail.com
+- **GitHub:** ilyesameraoui
+---
+
 ## Usage
 
 ### Requirements
@@ -85,5 +103,5 @@ The missile is animated, and real-time information is displayed on the screen, s
   - `matplotlib` for 3D plotting and animation.
 
 To install the required dependencies, use the following:
-```bash
+```bash 
 pip install numpy matplotlib
