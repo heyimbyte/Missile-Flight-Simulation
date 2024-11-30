@@ -91,7 +91,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 - **Email:** il.ameraoui@gmail.com
-- **GitHub:** ilyesameraoui
+- **GitHub:** heyimbyte
+  
 ---
 
 ## Usage
